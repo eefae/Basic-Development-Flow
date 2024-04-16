@@ -7,6 +7,6 @@ This one will use Vivado and Vitis to develop FPGA.
 
 ### base overlay
 base overlay is the FPGA design in the Pynq-os image.  
-see more.
+see more.  
 https://github.com/Xilinx/PYNQ  
 https://github.com/Xilinx/PYNQ-ZU
