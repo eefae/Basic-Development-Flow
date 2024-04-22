@@ -1,4 +1,7 @@
 # Basic-Development-Flow
+The purpose of this repo. is to let the new one easily start to design the board.  
+We use the Pynq-ZU to demo those labs.
+
 ### lab1 - for loop Acceleration example  
 in this section, we will use Vitis-hls Vivado and the Pynq-os image. 
   
