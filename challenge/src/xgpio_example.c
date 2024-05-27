@@ -1,1 +1,1 @@
-The answer will be show in the end of the course.
+The answer will be shown at the end of the course.
