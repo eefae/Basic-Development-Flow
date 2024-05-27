@@ -14,6 +14,10 @@ see more.
 https://github.com/Xilinx/PYNQ  
 https://github.com/Xilinx/PYNQ-ZU
 
+### challenge
+Create an application to encode the 4-bit switch to the 4-bit leds.  
+The answer will be shown at the end of the course.
+
 ### Pynq OS SD image download  
 >[E-elements official website](https://www.e-elements.com.tw/products/fpga_system/xup_pynq/pynq-zu/)  
 ### Contact Us  
