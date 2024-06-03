@@ -1,4 +1,2 @@
-lab1/design_1_wrapper.bit filter=lfs diff=lfs merge=lfs -text
-lab1/design_1_wrapper.hwh filter=lfs diff=lfs merge=lfs -text
-lab2/design_1_wrapper.xsa filter=lfs diff=lfs merge=lfs -text
 *.xsa filter=lfs diff=lfs merge=lfs -text
+*.bit filter=lfs diff=lfs merge=lfs -text
