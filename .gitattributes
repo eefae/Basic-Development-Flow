@@ -1,2 +1,4 @@
 *.xsa filter=lfs diff=lfs merge=lfs -text
 *.bit filter=lfs diff=lfs merge=lfs -text
+slide/PynqZ2.pptx filter=lfs diff=lfs merge=lfs -text
+slide/PynqZu.pptx filter=lfs diff=lfs merge=lfs -text
