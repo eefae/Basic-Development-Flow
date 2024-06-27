@@ -9,7 +9,7 @@ In this section, we will use Vitis-hls Vivado and the Pynq-os image.
 This one will use Vivado and Vitis to develop FPGA.
 
 
-### challenge(hide)
+### challenge
 Create an application to encode the switches to the 4-bit leds. 
 
 ### base overlay
